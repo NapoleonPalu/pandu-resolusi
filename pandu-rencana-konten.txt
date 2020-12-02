@@ -3,6 +3,7 @@ RENCANA KONTEN PANDU
 -Javascript
  * ES6
  * Freamwork Javascript
+-Struktur data dasar
 -PHP Freamwork
 -Interview
 -Vlogs
