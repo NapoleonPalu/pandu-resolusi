@@ -1,0 +1,8 @@
+RENCANA KONTEN PANDU
+
+-Javascript
+ * ES6
+ * Freamwork Javascript
+-PHP Freamwork
+-Interview
+-Vlogs
