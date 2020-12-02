@@ -4,6 +4,7 @@ RENCANA KONTEN PANDU
  * ES6
  * Freamwork Javascript
   ^ vue
+  ^ react
 -Struktur data dasar
 -PHP Freamwork
   ^ laravel
